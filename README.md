@@ -17,7 +17,7 @@ Supports both general development code and Data Structures & Algorithms (DSA) pr
 ## Tech Stack
 
 - **Frontend:** React, Vite, PrismJS, React Markdown, React Simple Code Editor, Axios
-- **Backend:** Node.js, Express, Google Generative AI SDK, dotenv, CORS
+- **Backend:** Node.js, Express, Google Gemini  AI 2.0, dotenv, CORS
 
 ---
 
