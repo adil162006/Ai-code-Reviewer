@@ -26,5 +26,5 @@ Supports both general development code and Data Structures & Algorithms (DSA) pr
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/ai-code-reviewer.git
+git clone https://github.com/adil162006/Ai-code-Reviewer
 cd ai-code-reviewer
